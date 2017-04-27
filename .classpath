@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_131"/>
+	<classpathentry kind="lib" path="C:/Selenium/Cucumber_Jars/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Cucumber_Jars/cucumber-core-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Cucumber_Jars/cucumber-java-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Cucumber_Jars/cucumber-junit-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Cucumber_Jars/cucumber-jvm-deps-1.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Cucumber_Jars/cucumber-reporting-0.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Cucumber_Jars/gherkin-2.12.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Cucumber_Jars/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/Cucumber_Jars/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Selenium"/>
+	<classpathentry kind="lib" path="C:/Users/Prashant Tanksali/workspace/CourseManagementSystem/CourseManagementSystem-master/WebContent/WEB-INF/lib/ojdbc8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
